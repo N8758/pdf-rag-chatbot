@@ -1,0 +1,15 @@
+streamlit
+pymupdf
+pytesseract
+pillow
+chromadb
+sentence-transformers
+langchain
+langchain-text-splitters
+ollama
+numpy
+pandas
+torch
+transformers
+tqdm
+python-dotenv
