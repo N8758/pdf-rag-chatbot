@@ -181,9 +181,7 @@ Run Streamlit Application:
 
 streamlit run app.py
 
-Application will be available at:
 
-http://localhost:8501
 
 ---
 
